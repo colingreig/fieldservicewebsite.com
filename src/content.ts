@@ -1,0 +1,37 @@
+export const content = {
+  brand: 'Field Service Website',
+  domain: 'fieldservicewebsite.com',
+  serviceType: 'Done-for-you websites for field-service businesses',
+  title: 'Field Service Website — Done-For-You Site Synced to Your Jobs',
+  description: 'A done-for-you field service website with instant quotes, online booking, reviews, and local SEO — synced to your jobs in Jobber, ServiceTitan, and Housecall Pro. Early access.',
+  navCta: 'Get early access',
+  badge: 'Early access · for field service businesses',
+  h1a: 'The website your field service software ', h1grad: 'was missing', h1b: '.',
+  sub: 'Done for you — no agency, no coding, no months-long build. Instant quotes, online booking, reviews, and local SEO, all kept in sync with your job data. You stay on the tools; your website does the selling.',
+  trust: 'Built for you and kept current automatically — not a site you have to maintain.',
+  mock: ['card', 'calendar', 'star'],
+  mockStat: 'Synced to your jobs',
+  featHead: {
+    eyebrow: 'What it does',
+    title: 'Wins the job before you pick up the phone.',
+    sub: 'Customers check you out online before they ever call. A Facebook page or a stale site loses the job. This is the front door your field-service software never gave you.',
+  },
+  features: [
+    { icon: 'zap', title: 'Done for you, live fast', body: 'No agency retainer, no website builder, no coding. We build and launch it for you, then keep it running — you just approve. Designed to go live in days, not months.' },
+    { icon: 'card', title: 'Instant quotes & online booking', body: 'Visitors get an instant estimate and book a real slot from your live availability — turning lookers into booked jobs instead of bounces.' },
+    { icon: 'trending', title: 'Always current, automatically', body: 'Services, availability, and reviews refresh straight from your job data. No stale website, no manual edits, no out-of-date hours.' },
+  ],
+  intsHead: {
+    title: 'The field-service website that syncs to your FSM',
+    sub: 'The plan: one login, one source of truth. Bookings flow into your software, reviews fire from completed jobs, and your site mirrors your real operation — not a snapshot from launch day.',
+  },
+  ints: [
+    { brand: 'Jobber', body: 'Designed to sync availability, services, and customers so the site mirrors your live operation.' },
+    { brand: 'ServiceTitan', body: 'Built to tie booking and reviews to dispatch and job status in real time.' },
+    { brand: 'Housecall Pro', body: 'Will pull your catalog and job data straight into the site — no manual upkeep.' },
+  ],
+  ctaTitle: 'Get the website your FSM was missing.',
+  ctaSub: 'We\'re building with a small group of field-service operators. Join early access and tell us which software you run.',
+  ctaList: ['Done for you — no agency, no coding', 'Instant quotes + booking from your schedule', 'Synced to your existing FSM'],
+  footerTag: 'The done-for-you website for field-service businesses.',
+};

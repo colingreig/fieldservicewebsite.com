@@ -1,0 +1,22 @@
+# FieldServiceWebsite
+
+A managed website and SEO platform purpose-built for field service businesses.
+
+## What it does
+
+Provides a professionally designed, conversion-optimized field service website that syncs booking availability, customer reviews, and job data directly from field service management (FSM) software. Includes ongoing local SEO so the business surfaces in Google Search, Maps, and AI-generated answers.
+
+## Who it is for
+
+Field service business owners and operators running Jobber, ServiceTitan, or Housecall Pro who need a credible online presence that stays current without manual effort.
+
+## Integrations
+
+- Jobber: syncs job types, service areas, and customer reviews
+- ServiceTitan: pulls booking availability and technician coverage zones
+- Housecall Pro: connects customer data and completed job history
+
+## Status
+
+Early access / waitlist. Not yet publicly available.
+URL: https://fieldservicewebsite.com
